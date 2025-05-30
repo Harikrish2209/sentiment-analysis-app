@@ -1,0 +1,1 @@
+pandas,re,pickle,numpy, matplotlib.pyplot ,seaborn , sklearn , model_selection train_test_split, GridSearchCV, StandardScaler, LabelEncoder,classification_report, accuracy_score,linear_model,LogisticRegression,feature_extraction.text,TfidfVectorizer
